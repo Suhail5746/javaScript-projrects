@@ -39,7 +39,7 @@ const projects = [
   {
     image: "images/p8.png",
     title: "Expense Tracker App",
-    url: "../expense tracker/index.html",
+    url: "../Expense Tracker/index.html",
   },
   {
     image: "images/p9.png",
@@ -49,7 +49,7 @@ const projects = [
   {
     image: "images/p10.png",
     title: "Drawer + Dropdown",
-    url: "../project10/index.html",
+    url: "../music app/index.html",
   },
 ];
 
